@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world ! 🎉💝💖💝💓",
-        message: "A big warm hug and a huge kiss !",
+        title: "Hum th jante rahani ha, tu YES karabu !😉",
+        message: "Thik hai chal leib Date pe, bhaw na kha !😁",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
